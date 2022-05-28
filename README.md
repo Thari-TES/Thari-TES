@@ -1,4 +1,4 @@
-### Hi there 👋, Hello!!
+### Hi there 👋, 
 I'm Tharindu Senanayake,  Undergraduate Of the Department of Industrial Management - University of Kelaniya.
 
 Skills: Java / C# / C++ / Php / Java Script / HTML / CSS
