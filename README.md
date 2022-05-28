@@ -21,5 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thari-TES&show_icons=true&locale=en&layout=compact" alt="Tharindu" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thari-TES)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thari-TES&show_icons=true)
