@@ -8,10 +8,10 @@ Skills: Java / C# / C++ / Php / Java Script / HTML / CSS
 - 📫 How to reach me: **tharindusenasmc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Thari-TES)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tharindu-senanayake-3033a01aa/)  
- </p>
-
+<p align="left">
+<a href="https://www.linkedin.com/in/dinuka-dilshan-18a84914b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/DinukaDilshan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it19966922" height="30" width="40" /></a>
+</p>
 
 
  
