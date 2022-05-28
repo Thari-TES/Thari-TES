@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! 👋.I'm Tharindu Senanayake</h1>
+<h1 align="center">Hello 👋 I'm Tharindu Senanayake</h1>
 <h3> Undergraduate Of the Department of Industrial Management - University of Kelaniya.</h3>
 
 Skills: Java / C# / C++ / Php / Java Script / HTML / CSS
