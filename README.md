@@ -7,8 +7,10 @@ Skills: Java / C# / C++ / Php / Java Script / HTML / CSS
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **tharindusenasmc@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
+<p>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Thari-TES)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tharindu-senanayake-3033a01aa/)  
+ </p>
 
 
 
