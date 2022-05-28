@@ -1,10 +1,16 @@
+### Hi there 👋, Hello!!
+I'm Tharindu Senanayake,  Undergraduate Of the Department of Industrial Management - University of Kelaniya.
 
-### Hello 👋, 
-#### I'm Tharindu Senanayake, Undergraduate Of Department of Industrial Management - University of Kelaniya.
+Skills: Java / C# / C++ / Php / Java Script / HTML / CSS
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+- 🌱 I’m currently learning Python, Machine Learning, React and Node.js 
+- 💬 Ask me about Python 
+- 📫 How to reach me: tharindusenasmc@gmail.com 
 
-Skills: Python / Java / C# / C++ / JS / HTML / CSS 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Thari-TES)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tharindu-senanayake-3033a01aa/)  
+
+
 
  
 
