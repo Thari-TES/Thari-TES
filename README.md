@@ -2,7 +2,7 @@
 <h3> Undergraduate Of the Department of Industrial Management - University of Kelaniya.</h3>
 
 
-- 🌱 I’m currently learning **Python, Machine Learning, React and Node.js** 
+- 🌱 I’m currently learning **Python, Machine Learning, MERN Stack** 
 - 📫 How to reach me: **tharindusenasmc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
